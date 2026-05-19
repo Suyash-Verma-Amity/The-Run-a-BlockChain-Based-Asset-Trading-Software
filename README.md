@@ -1,2 +1,13 @@
-# The-Run-a-BlockChain-Based-Asset-Trading-Software
-The Run is a blockchain-based asset trading software that enables secure buying, selling, and exchange of digital assets like cars, skins, and NFTs. Using Ethereum smart contracts, it ensures transparency, ownership verification, secure transactions, and tamper-proof asset management.
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat ignition deploy ./ignition/modules/Lock.js
+```
